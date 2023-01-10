@@ -1,4 +1,3 @@
-[![MasterHead]( https://eportfolio.utm.my/artefact/file/download.php?file=689304&view=155632&maxwidth=400&maxheight=180)]
 <h1 align="center">Hi 👋, I'm Chinmay Ankolekar</h1>
 <h3 align="center">I'm an aspiring Software Engineer interested in everything tech-related</h3>
 
