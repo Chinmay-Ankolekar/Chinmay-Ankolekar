@@ -35,8 +35,6 @@
 </div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/chinmayank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chinmayank" /></a></p><br><br>
