@@ -16,10 +16,6 @@
 
 - 🔭 I'm an aspiring Software Engineer interested in everything tech-related  
   
-
-- 🌱 I’m currently learning Web-development  
-  
-
 - 📫 How to reach me chinmaysankolekar@gamil.com  
   
 
